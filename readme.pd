@@ -1,3 +1,4 @@
+``` markdwon
 This repository contains a collection of SQL practice projects and query exercises.
 Each project was created to develop and demonstrate skills in data extraction,
 cleaning, transformation, and analytical problem‑solving.
@@ -13,3 +14,4 @@ cleaning, transformation, and analytical problem‑solving.
 - SQL Server / MySQL / PostgreSQL
 - SQL Management Studio / Azure Data Studio
 - Sample CSV / database tables
+```
